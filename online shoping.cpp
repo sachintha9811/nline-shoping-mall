@@ -527,7 +527,7 @@ int main()
 	delete Seller1;
 	delete admin1;
 	delete cart1;
-	elete category1;
+	delete category1;
 	delete deliverydetails1;
 	delete discount1;
 	delete feedback1;
